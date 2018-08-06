@@ -1,0 +1,2 @@
+# LectureNote
+Tech Lecture Notes
